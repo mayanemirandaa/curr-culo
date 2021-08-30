@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+body{
+    font-family:'roboto';
+}
+
+.container{
+    display:flex;
+    height:1500px;
+    width: 700px;
+    justify-content: center;
+    background-color: aqua;
+    display: flex;
+    margin-left: 190px;
+    background-color: #222;
+
+}
+
+.parte-b{
+    background-color: #ffffff;
+    width: 450px;
+
+}
+
+.parte-a{
+    background-color: #19304F;
+    width: 270px;
+    color:#ffffff
+}
+
+.foto-perfil img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    padding: 20px;
+    margin-left: 25px;
+    margin-right: 11px;
+}
+
+.foto-perfil{
+    display: flex;
+    
+}
+
+h2{
+    font-size: 20px;
+    padding-top: 5px;
+
+}
+
+p{
+    font-size: 16px;
+    padding-top: -20px;
+    margin-left: 10px;
+
+}
+
+.foto-perfil h2{
+    margin-bottom: 5px;
+    display:block;
+}
+
+.foto-perfil p{
+    padding-top: 50px
+    margin-top: 120px;
+    display:block;
+}
+
+.icones img{
+    width: 40px;
+    height: 40px;
+    margin: 7px;
+}
+
+.perfil{
+    margin-left: 75px;
+    margin-top: 50px;
+    margin-bottom: 36px;
+
+}
+
+.perfil h2{
+    margin-bottom: 10px;
+}
+
+.perfil p {
+    line-height: 18px;
+}
+
+.educação{
+    margin-left: 75px;
+    margin-top: 20px;
+    margin-bottom: 36px;
+}
+
+.nome-cargo{
+    display: block;
+    width: 100%;
+    padding-top: 40px;
+}
+
+.nome-cargo p{
+    padding-left: 10px;
+    padding-top: 7px;
+    margin-right: -20px;
+    margin-left: 5px;
+}
+
+.contato{
+    margin-top: 90px;
+    margin-right: 22px;
+    margin-left: 22px;
+}
+
+.conhecimento{
+    margin-top: 60px;
+    margin-right: 22px;
+    margin-left: 22px;
+}
+
